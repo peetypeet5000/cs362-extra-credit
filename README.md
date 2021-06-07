@@ -12,3 +12,6 @@ The following are five user stories for the social media system:
 3. As a buisnessman, I want to be able to be simultaneously signed in from mutiple devices so I can use my work and personal phone.
 4. As a Mother, I want to be able to set privacy restrictions on my childrens pages so that strangers cannot see their content without adding them.
 5. As a fashion icon, I want to be able to apply a range of filters to my photos to better show off my outfits.
+
+## Question 3
+Question 3 has been implimented in ```question3.py```. It has been supplied with some driver code to show it works.
